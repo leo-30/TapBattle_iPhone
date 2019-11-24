@@ -10,7 +10,7 @@
 		3EBCEEEA238A840D008AF367 /* 03.png in Resources */ = {isa = PBXBuildFile; fileRef = 3EBCEEE8238A840D008AF367 /* 03.png */; };
 		3EBCEEEB238A840D008AF367 /* 06.png in Resources */ = {isa = PBXBuildFile; fileRef = 3EBCEEE9238A840D008AF367 /* 06.png */; };
 		3EBCEEEF238A86E3008AF367 /* skyblue.png in Resources */ = {isa = PBXBuildFile; fileRef = 3EBCEEED238A86E3008AF367 /* skyblue.png */; };
-		3EBCEEF1238A87A3008AF367 /* pink.png in Resources */ = {isa = PBXBuildFile; fileRef = 3EBCEEF0238A87A3008AF367 /* pink.png */; };
+		3EBCEEF7238A89E4008AF367 /* pink.png in Resources */ = {isa = PBXBuildFile; fileRef = 3EBCEEF6238A89E4008AF367 /* pink.png */; };
 		3ED48250238826BB00E66E93 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ED4824F238826BB00E66E93 /* AppDelegate.swift */; };
 		3ED48252238826BB00E66E93 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ED48251238826BB00E66E93 /* SceneDelegate.swift */; };
 		3ED48254238826BB00E66E93 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ED48253238826BB00E66E93 /* ViewController.swift */; };
@@ -23,7 +23,7 @@
 		3EBCEEE8238A840D008AF367 /* 03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 03.png; sourceTree = "<group>"; };
 		3EBCEEE9238A840D008AF367 /* 06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 06.png; sourceTree = "<group>"; };
 		3EBCEEED238A86E3008AF367 /* skyblue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skyblue.png; sourceTree = "<group>"; };
-		3EBCEEF0238A87A3008AF367 /* pink.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pink.png; path = ../../../../../../../../Desktop/pink.png; sourceTree = "<group>"; };
+		3EBCEEF6238A89E4008AF367 /* pink.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pink.png; sourceTree = "<group>"; };
 		3ED4824C238826BB00E66E93 /* TapBattle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TapBattle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3ED4824F238826BB00E66E93 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3ED48251238826BB00E66E93 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,7 +64,7 @@
 		3ED4824E238826BB00E66E93 /* TapBattle */ = {
 			isa = PBXGroup;
 			children = (
-				3EBCEEF0238A87A3008AF367 /* pink.png */,
+				3EBCEEF6238A89E4008AF367 /* pink.png */,
 				3EBCEEED238A86E3008AF367 /* skyblue.png */,
 				3EBCEEE8238A840D008AF367 /* 03.png */,
 				3EBCEEE9238A840D008AF367 /* 06.png */,
@@ -139,7 +139,7 @@
 			files = (
 				3EBCEEEB238A840D008AF367 /* 06.png in Resources */,
 				3EBCEEEA238A840D008AF367 /* 03.png in Resources */,
-				3EBCEEF1238A87A3008AF367 /* pink.png in Resources */,
+				3EBCEEF7238A89E4008AF367 /* pink.png in Resources */,
 				3ED4825C238826BE00E66E93 /* LaunchScreen.storyboard in Resources */,
 				3ED48259238826BE00E66E93 /* Assets.xcassets in Resources */,
 				3ED48257238826BB00E66E93 /* Main.storyboard in Resources */,
